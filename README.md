@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @oggy-crypto-cmd
+- 👋 Hi, I’m Gayatri P
 - 👀 I’m interested in Python, C and C++
 - 🌱 I’m currently learning Embedded C
 - 💞️ I’m looking to collaborate on nothing right now 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a newbie
 - 🎓I am pursuing a B.Tech in Electronics and Communication Engineering (ECE) from VJEC.
 
 <!---
